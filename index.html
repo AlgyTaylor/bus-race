@@ -168,7 +168,14 @@
         return;
       }
 
-      output.textContent = 'Ordered cities:\n' + bestRoute.map(c => c.city).join('\n');
+      // Add bustimes.org and OpenStreetMap links for the first city
+      const firstCity = bestRoute[0].city;
+      const bustimesUrl = `https://bustimes.org/search?q=${encodeURIComponent(firstCity)}`;
+      const osmUrl = `https://www.openstreetmap.org/search?query=${encodeURIComponent(firstCity)}`;
+      output.innerHTML =
+        `<a href="${bustimesUrl}" target="_blank" rel="noopener" class="mb-2 d-block">Bus times for ${firstCity}</a>` +
+        `<a href="${osmUrl}" target="_blank" rel="noopener" class="mb-2 d-block">OpenStreetMap: ${firstCity}</a>` +
+        'Ordered cities:\n' + bestRoute.map(c => c.city).join('\n');
     };
   </script>
 </body>
