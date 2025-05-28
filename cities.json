@@ -1,0 +1,458 @@
+[
+  {
+    "city": "London",
+    "region": "London",
+    "latitude": 51.50722222,
+    "longitude": -0.12749999
+  },
+  {
+    "city": "Westminster",
+    "region": "London",
+    "latitude": 51.49472221,
+    "longitude": -0.13527777
+  },
+  {
+    "city": "Birmingham",
+    "region": "West Midlands",
+    "latitude": 52.47999999,
+    "longitude": -1.90250000
+  },
+  {
+    "city": "Leeds",
+    "region": "Yorkshire and the Humber",
+    "latitude": 53.79749999,
+    "longitude": -1.54361110
+  },
+  {
+    "city": "Glasgow32(Scots: Glesga)(Scottish Gaelic: Glaschu)",
+    "region": "Scotland",
+    "latitude": 55.86111111,
+    "longitude": -4.25000000
+  },
+  {
+    "city": "Manchester",
+    "region": "North West England",
+    "latitude": 53.47888888,
+    "longitude": -2.24527777
+  },
+  {
+    "city": "Sheffield",
+    "region": "Yorkshire and the Humber",
+    "latitude": 53.38083332,
+    "longitude": -1.47027777
+  },
+  {
+    "city": "Bradford",
+    "region": "Yorkshire and the Humber",
+    "latitude": 53.80000000,
+    "longitude": -1.75000000
+  },
+  {
+    "city": "Edinburgh32(Scottish Gaelic: Dùn Èideann)",
+    "region": "Scotland",
+    "latitude": 55.95000000,
+    "longitude": -3.18333333
+  },
+  {
+    "city": "Liverpool",
+    "region": "North West England",
+    "latitude": 53.40722222,
+    "longitude": -2.99166666
+  },
+  {
+    "city": "Bristol",
+    "region": "South West England",
+    "latitude": 51.45361111,
+    "longitude": -2.59749999
+  },
+  {
+    "city": "Cardiff(Welsh: Caerdydd)",
+    "region": "Wales",
+    "latitude": 51.48166666,
+    "longitude": -3.17916666
+  },
+  {
+    "city": "Leicester",
+    "region": "East Midlands",
+    "latitude": 52.63611110,
+    "longitude": -1.13305554
+  },
+  {
+    "city": "Coventry",
+    "region": "West Midlands",
+    "latitude": 52.40805555,
+    "longitude": -1.51055555
+  },
+  {
+    "city": "Wakefield",
+    "region": "Yorkshire and the Humber",
+    "latitude": 53.68249999,
+    "longitude": -1.49749999
+  },
+  {
+    "city": "Belfast(Irish: Béal Feirste)(Ulster-Scots dialect: Bilfawst)",
+    "region": "Northern Ireland",
+    "latitude": 54.59666666,
+    "longitude": -5.92999999
+  },
+  {
+    "city": "Nottingham",
+    "region": "East Midlands",
+    "latitude": 52.95611111,
+    "longitude": -1.15111111
+  },
+  {
+    "city": "Newcastle upon Tyne",
+    "region": "North East England",
+    "latitude": 54.97805554,
+    "longitude": -1.61027777
+  },
+  {
+    "city": "Doncaster",
+    "region": "Yorkshire and the Humber",
+    "latitude": 53.52277777,
+    "longitude": -1.13249999
+  },
+  {
+    "city": "Milton Keynes",
+    "region": "South East England",
+    "latitude": 52.03333333,
+    "longitude": -0.76666666
+  },
+  {
+    "city": "Salford",
+    "region": "North West England",
+    "latitude": 53.48305554,
+    "longitude": -2.29305555
+  },
+  {
+    "city": "Sunderland",
+    "region": "North East England",
+    "latitude": 54.90611111,
+    "longitude": -1.38111110
+  },
+  {
+    "city": "Brighton and Hove",
+    "region": "South East England",
+    "latitude": 50.82083332,
+    "longitude": -0.13749999
+  },
+  {
+    "city": "Wolverhampton",
+    "region": "West Midlands",
+    "latitude": 52.58333333,
+    "longitude": -2.13333333
+  },
+  {
+    "city": "Kingston upon Hull",
+    "region": "Yorkshire and the Humber",
+    "latitude": 53.74444444,
+    "longitude": -0.33249999
+  },
+  {
+    "city": "Plymouth",
+    "region": "South West England",
+    "latitude": 50.37138888,
+    "longitude": -4.14222221
+  },
+  {
+    "city": "Derby",
+    "region": "East Midlands",
+    "latitude": 52.92472221,
+    "longitude": -1.47805554
+  },
+  {
+    "city": "Stoke-on-Trent",
+    "region": "West Midlands",
+    "latitude": 53.02555554,
+    "longitude": -2.17611110
+  },
+  {
+    "city": "Southampton",
+    "region": "South East England",
+    "latitude": 50.90250000,
+    "longitude": -1.40416666
+  },
+  {
+    "city": "Swansea(Welsh: Abertawe)",
+    "region": "Wales",
+    "latitude": 51.61666666,
+    "longitude": -3.95000000
+  },
+  {
+    "city": "Aberdeen32(Scots: Aiberdeen)(Scottish Gaelic: Obar Dheathain)",
+    "region": "Scotland",
+    "latitude": 57.15000000,
+    "longitude": -2.11666666
+  },
+  {
+    "city": "Peterborough",
+    "region": "East of England",
+    "latitude": 52.56611111,
+    "longitude": -0.23638888
+  },
+  {
+    "city": "Portsmouth",
+    "region": "South East England",
+    "latitude": 50.80583333,
+    "longitude": -1.08722221
+  },
+  {
+    "city": "York",
+    "region": "Yorkshire and the Humber",
+    "latitude": 53.96000000,
+    "longitude": -1.07999999
+  },
+  {
+    "city": "Colchester",
+    "region": "East of England",
+    "latitude": 51.89166666,
+    "longitude": 0.90305555
+  },
+  {
+    "city": "Chelmsford",
+    "region": "East of England",
+    "latitude": 51.73333333,
+    "longitude": 0.48333333
+  },
+  {
+    "city": "Southend-on-Sea",
+    "region": "East of England",
+    "latitude": 51.55000000,
+    "longitude": 0.71666666
+  },
+  {
+    "city": "Oxford",
+    "region": "South East England",
+    "latitude": 51.75194444,
+    "longitude": -1.25777777
+  },
+  {
+    "city": "Newport(Welsh: Casnewydd)",
+    "region": "Wales",
+    "latitude": 51.58861110,
+    "longitude": -2.99777777
+  },
+  {
+    "city": "Canterbury",
+    "region": "South East England",
+    "latitude": 51.28333333,
+    "longitude": 1.08333333
+  },
+  {
+    "city": "Preston",
+    "region": "North West England",
+    "latitude": 53.75888888,
+    "longitude": -2.69888888
+  },
+  {
+    "city": "Dundee(Scottish Gaelic: Dùn Dèagh)",
+    "region": "Scotland",
+    "latitude": 56.46055555,
+    "longitude": -2.96999999
+  },
+  {
+    "city": "Cambridge",
+    "region": "East of England",
+    "latitude": 52.20500000,
+    "longitude": 0.12249999
+  },
+  {
+    "city": "St Albans",
+    "region": "East of England",
+    "latitude": 51.75500000,
+    "longitude": -0.33611110
+  },
+  {
+    "city": "Lancaster",
+    "region": "North West, England",
+    "latitude": 54.04888888,
+    "longitude": -2.80138888
+  },
+  {
+    "city": "Norwich",
+    "region": "East of England",
+    "latitude": 52.62861110,
+    "longitude": 1.29277777
+  },
+  {
+    "city": "Chester",
+    "region": "North West England",
+    "latitude": 53.19138888,
+    "longitude": -2.89027777
+  },
+  {
+    "city": "Exeter",
+    "region": "South West England",
+    "latitude": 50.72555554,
+    "longitude": -3.52694443
+  },
+  {
+    "city": "Wrexham (Welsh: Wrecsam)",
+    "region": "Wales",
+    "latitude": 53.04666666,
+    "longitude": -2.99361110
+  },
+  {
+    "city": "Gloucester",
+    "region": "South West, England",
+    "latitude": 51.86527777,
+    "longitude": -2.24583333
+  },
+  {
+    "city": "Winchester",
+    "region": "South East, England",
+    "latitude": 51.06333333,
+    "longitude": -1.30805555
+  },
+  {
+    "city": "Durham",
+    "region": "North East, England",
+    "latitude": 54.77611110,
+    "longitude": -1.57333332
+  },
+  {
+    "city": "Carlisle",
+    "region": "North West, England",
+    "latitude": 54.89472221,
+    "longitude": -2.93638888
+  },
+  {
+    "city": "Worcester",
+    "region": "West Midlands",
+    "latitude": 52.19111110,
+    "longitude": -2.22055554
+  },
+  {
+    "city": "Lincoln",
+    "region": "East Midlands",
+    "latitude": 53.22833332,
+    "longitude": -0.53888888
+  },
+  {
+    "city": "Bath",
+    "region": "South West, England",
+    "latitude": 51.38138888,
+    "longitude": -2.35972222
+  },
+  {
+    "city": "Derry(Irish: Doire)(Ulster-Scots: Derrie)",
+    "region": "Northern Ireland",
+    "latitude": 54.99749999,
+    "longitude": -7.31999999
+  },
+  {
+    "city": "Dunfermline",
+    "region": "Scotland",
+    "latitude": 56.07194443,
+    "longitude": -3.43916666
+  },
+  {
+    "city": "Bangor(Irish: Beannchar)",
+    "region": "Northern Ireland",
+    "latitude": 54.66666666,
+    "longitude": -5.66666666
+  },
+  {
+    "city": "Inverness(Scots: Inerness)(Scottish Gaelic: Inbhir Nis)",
+    "region": "Scotland",
+    "latitude": 57.47777777,
+    "longitude": -4.22472221
+  },
+  {
+    "city": "Hereford",
+    "region": "West Midlands",
+    "latitude": 52.05611111,
+    "longitude": -2.71611111
+  },
+  {
+    "city": "Lisburn(Irish: Lios na gCearrbhach)",
+    "region": "Northern Ireland",
+    "latitude": 54.51194444,
+    "longitude": -6.03111110
+  },
+  {
+    "city": "Stirling(Scots: Stirlin)(Scottish Gaelic: Sruighlea)",
+    "region": "Scotland",
+    "latitude": 56.11666666,
+    "longitude": -3.93694444
+  },
+  {
+    "city": "Perth(Scots: Pairth)(Scottish Gaelic: Peairt)",
+    "region": "Scotland",
+    "latitude": 56.39583333,
+    "longitude": -3.43333333
+  },
+  {
+    "city": "Salisbury",
+    "region": "South West England",
+    "latitude": 51.06972221,
+    "longitude": -1.79499999
+  },
+  {
+    "city": "Lichfield",
+    "region": "West Midlands",
+    "latitude": 52.68194443,
+    "longitude": -1.82888888
+  },
+  {
+    "city": "Chichester",
+    "region": "South East England",
+    "latitude": 50.83638888,
+    "longitude": -0.77916666
+  },
+  {
+    "city": "Newry(Irish: Iúr Cinn Trá)(Ulster-Scots: Newrie)",
+    "region": "Northern Ireland",
+    "latitude": 54.17611110,
+    "longitude": -6.34888888
+  },
+  {
+    "city": "Truro(Cornish: Truru)",
+    "region": "South West England",
+    "latitude": 50.26000000,
+    "longitude": -5.05111111
+  },
+  {
+    "city": "Ely",
+    "region": "East of England",
+    "latitude": 52.39805555,
+    "longitude": 0.26222222
+  },
+  {
+    "city": "Ripon",
+    "region": "Yorkshire and the Humber",
+    "latitude": 54.13611110,
+    "longitude": -1.52361110
+  },
+  {
+    "city": "Armagh(Irish: Ard Mhacha)(Ulster-Scots: Airmagh)",
+    "region": "Northern Ireland",
+    "latitude": 54.35000000,
+    "longitude": -6.65472222
+  },
+  {
+    "city": "Bangor",
+    "region": "Wales",
+    "latitude": 53.22805554,
+    "longitude": -4.12805554
+  },
+  {
+    "city": "Wells",
+    "region": "South West England",
+    "latitude": 51.20944444,
+    "longitude": -2.64499999
+  },
+  {
+    "city": "St Asaph(Welsh: Llanelwy)",
+    "region": "Wales",
+    "latitude": 53.25805555,
+    "longitude": -3.44194444
+  },
+  {
+    "city": "St Davids(Welsh: Tyddewi)",
+    "region": "Wales",
+    "latitude": 51.88194443,
+    "longitude": -5.26888888
+  }
+]
