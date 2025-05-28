@@ -1,227 +1,5 @@
 [
   {
-    "city": "Knighton, Powys",
-    "region": "PowysShropshire",
-    "latitude": 52.34388888,
-    "longitude": -3.05000000
-  },
-  {
-    "city": "Aberystwyth",
-    "region": "Dyfed",
-    "latitude": 52.41388888,
-    "longitude": -4.08111110
-  },
-  {
-    "city": "Holyhead",
-    "region": "Gwynedd",
-    "latitude": 53.30888888,
-    "longitude": -4.63305554
-  },
-  {
-    "city": "Pwllheli",
-    "region": "Gwynedd",
-    "latitude": 52.88694444,
-    "longitude": -4.41805554
-  },
-  {
-    "city": "Reading, Berkshire",
-    "region": "Berkshire",
-    "latitude": 51.45416666,
-    "longitude": -0.97305554
-  },
-  {
-    "city": "Aylesbury",
-    "region": "Buckinghamshire",
-    "latitude": 51.81666666,
-    "longitude": -0.81250000
-  },
-  {
-    "city": "Bedford",
-    "region": "Bedfordshire",
-    "latitude": 52.13499999,
-    "longitude": -0.46999999
-  },
-  {
-    "city": "Beverley",
-    "region": "East Riding of Yorkshire",
-    "latitude": 53.84499999,
-    "longitude": -0.42694443
-  },
-  {
-    "city": "Dorchester, Dorset",
-    "region": "Dorset",
-    "latitude": 50.71527777,
-    "longitude": -2.43666666
-  },
-  {
-    "city": "Hertford",
-    "region": "HertfordshireHertfordshire",
-    "latitude": 51.79666666,
-    "longitude": -0.07722221
-  },
-  {
-    "city": "Huntingdon",
-    "region": "Cambridgeshire",
-    "latitude": 52.33638888,
-    "longitude": -0.017166666
-  },
-  {
-    "city": "Ipswich",
-    "region": "Suffolk",
-    "latitude": 52.05944444,
-    "longitude": 1.15555555
-  },
-  {
-    "city": "Lewes",
-    "region": "East Sussex",
-    "latitude": 50.87472221,
-    "longitude": 0.01166666
-  },
-  {
-    "city": "Maidstone",
-    "region": "Kent",
-    "latitude": 51.27194443,
-    "longitude": 0.52888888
-  },
-  {
-    "city": "Matlock, Derbyshire",
-    "region": "Derbyshire",
-    "latitude": 53.13333333,
-    "longitude": -1.55000000
-  },
-  {
-    "city": "Morpeth, Northumberland",
-    "region": "Northumberland",
-    "latitude": 55.16749999,
-    "longitude": -1.69083333
-  },
-  {
-    "city": "Newport, Isle of Wight",
-    "region": "Isle of Wight",
-    "latitude": 50.70111111,
-    "longitude": -1.28833333
-  },
-  {
-    "city": "Northallerton",
-    "region": "North Yorkshire",
-    "latitude": 54.33777777,
-    "longitude": -1.42861110
-  },
-  {
-    "city": "Northampton",
-    "region": "Northamptonshire",
-    "latitude": 52.23027777,
-    "longitude": -0.89388888
-  },
-  {
-    "city": "Oakham",
-    "region": "Rutland",
-    "latitude": 52.67055554,
-    "longitude": -0.73333333
-  },
-  {
-    "city": "Shrewsbury",
-    "region": "Shropshire",
-    "latitude": 52.70805555,
-    "longitude": -2.75388888
-  },
-  {
-    "city": "Stafford",
-    "region": "Staffordshire",
-    "latitude": 52.80694444,
-    "longitude": -2.11694443
-  },
-  {
-    "city": "Taunton",
-    "region": "Somerset",
-    "latitude": 51.01888888,
-    "longitude": -3.10000000
-  },
-  {
-    "city": "Trowbridge",
-    "region": "Wiltshire",
-    "latitude": 51.31999999,
-    "longitude": -2.20805555
-  },
-  {
-    "city": "Truro",
-    "region": "Cornwall",
-    "latitude": 50.26000000,
-    "longitude": -5.05111111
-  },
-  {
-    "city": "Wakefield",
-    "region": "West Yorkshire",
-    "latitude": 53.68249999,
-    "longitude": -1.49749999
-  },
-  {
-    "city": "Monmouth",
-    "region": "Gwent",
-    "latitude": 51.81666666,
-    "longitude": -2.71666666
-  },
-  {
-    "city": "Carmarthen",
-    "region": "Dyfed",
-    "latitude": 51.85611111,
-    "longitude": -4.31611111
-  },
-  {
-    "city": "Haverfordwest",
-    "region": "Dyfed",
-    "latitude": 51.80000000,
-    "longitude": -4.96666666
-  },
-  {
-    "city": "Brecon",
-    "region": "Powys",
-    "latitude": 51.94805555,
-    "longitude": -3.39111110
-  },
-  {
-    "city": "Newtown, Powys",
-    "region": "Powys",
-    "latitude": 52.51333333,
-    "longitude": -3.31416666
-  },
-  {
-    "city": "Denbigh",
-    "region": "Clwyd",
-    "latitude": 53.18527777,
-    "longitude": -3.41777777
-  },
-  {
-    "city": "Barmouth",
-    "region": "Gwynedd",
-    "latitude": 52.72194443,
-    "longitude": -4.05500000
-  },
-  {
-    "city": "Caernarfon",
-    "region": "Gwynedd",
-    "latitude": 53.13333333,
-    "longitude": -4.26666666
-  },
-  {
-    "city": "Llangefni",
-    "region": "Gwynedd",
-    "latitude": 53.25611111,
-    "longitude": -4.31388888
-  },
-  {
-    "city": "Penzance",
-    "region": "Cornwall",
-    "latitude": 50.11888888,
-    "longitude": -5.53694444
-  },
-  {
-    "city": "Berwick-upon-Tweed",
-    "region": "Northumberland",
-    "latitude": 55.76916666,
-    "longitude": -2.00250000
-  },
-  {
     "city": "London",
     "region": "London",
     "latitude": 51.50722222,
@@ -676,5 +454,377 @@
     "region": "Wales",
     "latitude": 51.88194443,
     "longitude": -5.26888888
+  },
+  {
+    "city": "Knighton, Powys",
+    "region": "PowysShropshire",
+    "latitude": 52.34388888,
+    "longitude": -3.05000000
+  },
+  {
+    "city": "Aberystwyth",
+    "region": "Dyfed",
+    "latitude": 52.41388888,
+    "longitude": -4.08111110
+  },
+  {
+    "city": "Holyhead",
+    "region": "Gwynedd",
+    "latitude": 53.30888888,
+    "longitude": -4.63305554
+  },
+  {
+    "city": "Pwllheli",
+    "region": "Gwynedd",
+    "latitude": 52.88694444,
+    "longitude": -4.41805554
+  },
+  {
+    "city": "Dumfries",
+    "region": "",
+    "latitude": 55.06999999,
+    "longitude": -3.60305555
+  },
+  {
+    "city": "Brodick",
+    "region": "",
+    "latitude": 55.57611110,
+    "longitude": -5.15111111
+  },
+  {
+    "city": "Campbeltown",
+    "region": "",
+    "latitude": 55.42305554,
+    "longitude": -5.60805555
+  },
+  {
+    "city": "Rothesay",
+    "region": "",
+    "latitude": 55.83333333,
+    "longitude": -5.05000000
+  },
+  {
+    "city": "Millport, Great Cumbrae",
+    "region": "",
+    "latitude": 55.75194444,
+    "longitude": -4.92999999
+  },
+  {
+    "city": "Port Ellen",
+    "region": "",
+    "latitude": 55.63333333,
+    "longitude": -6.18333333
+  },
+  {
+    "city": "Scalasaig",
+    "region": "",
+    "latitude": 56.06666666,
+    "longitude": -6.18333333
+  },
+  {
+    "city": "Craignure",
+    "region": "",
+    "latitude": 56.47111110,
+    "longitude": -5.70694444
+  },
+  {
+    "city": "Achnacroish",
+    "region": "",
+    "latitude": 56.51111111,
+    "longitude": -5.49444444
+  },
+  {
+    "city": "Tobermory, Mull",
+    "region": "",
+    "latitude": 56.61666666,
+    "longitude": -6.06666666
+  },
+  {
+    "city": "Fort William, Scotland",
+    "region": "",
+    "latitude": 56.81972221,
+    "longitude": -5.10527777
+  },
+  {
+    "city": "Arinagour",
+    "region": "",
+    "latitude": 56.61666666,
+    "longitude": -6.53333333
+  },
+  {
+    "city": "Scarinish",
+    "region": "",
+    "latitude": 56.50111111,
+    "longitude": -6.80722222
+  },
+  {
+    "city": "Castlebay",
+    "region": "",
+    "latitude": 56.95500000,
+    "longitude": -7.48611110
+  },
+  {
+    "city": "Lochboisdale",
+    "region": "",
+    "latitude": 57.15388888,
+    "longitude": -7.30888888
+  },
+  {
+    "city": "Lochmaddy",
+    "region": "",
+    "latitude": 57.60194444,
+    "longitude": -7.16388888
+  },
+  {
+    "city": "Tarbert, Harris",
+    "region": "",
+    "latitude": 57.89888888,
+    "longitude": -6.80805555
+  },
+  {
+    "city": "Stornoway",
+    "region": "",
+    "latitude": 58.20888888,
+    "longitude": -6.38694444
+  },
+  {
+    "city": "Portree",
+    "region": "",
+    "latitude": 57.41194444,
+    "longitude": -6.19194444
+  },
+  {
+    "city": "Reading, Berkshire",
+    "region": "Berkshire",
+    "latitude": 51.45416666,
+    "longitude": -0.97305554
+  },
+  {
+    "city": "Aylesbury",
+    "region": "Buckinghamshire",
+    "latitude": 51.81666666,
+    "longitude": -0.81250000
+  },
+  {
+    "city": "Bedford",
+    "region": "Bedfordshire",
+    "latitude": 52.13499999,
+    "longitude": -0.46999999
+  },
+  {
+    "city": "Beverley",
+    "region": "East Riding of Yorkshire",
+    "latitude": 53.84499999,
+    "longitude": -0.42694443
+  },
+  {
+    "city": "Dorchester, Dorset",
+    "region": "Dorset",
+    "latitude": 50.71527777,
+    "longitude": -2.43666666
+  },
+  {
+    "city": "Hertford",
+    "region": "HertfordshireHertfordshire",
+    "latitude": 51.79666666,
+    "longitude": -0.07722221
+  },
+  {
+    "city": "Huntingdon",
+    "region": "Cambridgeshire",
+    "latitude": 52.33638888,
+    "longitude": -0.17166666
+  },
+  {
+    "city": "Ipswich",
+    "region": "Suffolk",
+    "latitude": 52.05944444,
+    "longitude": 1.15555555
+  },
+  {
+    "city": "Lewes",
+    "region": "East Sussex",
+    "latitude": 50.87472221,
+    "longitude": 0.01166666
+  },
+  {
+    "city": "Maidstone",
+    "region": "Kent",
+    "latitude": 51.27194443,
+    "longitude": 0.52888888
+  },
+  {
+    "city": "Matlock, Derbyshire",
+    "region": "Derbyshire",
+    "latitude": 53.13333333,
+    "longitude": -1.55000000
+  },
+  {
+    "city": "Morpeth, Northumberland",
+    "region": "Northumberland",
+    "latitude": 55.16749999,
+    "longitude": -1.69083333
+  },
+  {
+    "city": "Newport, Isle of Wight",
+    "region": "Isle of Wight",
+    "latitude": 50.70111111,
+    "longitude": -1.28833333
+  },
+  {
+    "city": "Northallerton",
+    "region": "North Yorkshire",
+    "latitude": 54.33777777,
+    "longitude": -1.42861110
+  },
+  {
+    "city": "Northampton",
+    "region": "Northamptonshire",
+    "latitude": 52.23027777,
+    "longitude": -0.89388888
+  },
+  {
+    "city": "Oakham",
+    "region": "Rutland",
+    "latitude": 52.67055554,
+    "longitude": -0.73333333
+  },
+  {
+    "city": "Shrewsbury",
+    "region": "Shropshire",
+    "latitude": 52.70805555,
+    "longitude": -2.75388888
+  },
+  {
+    "city": "Stafford",
+    "region": "Staffordshire",
+    "latitude": 52.80694444,
+    "longitude": -2.11694443
+  },
+  {
+    "city": "Taunton",
+    "region": "Somerset",
+    "latitude": 51.01888888,
+    "longitude": -3.10000000
+  },
+  {
+    "city": "Trowbridge",
+    "region": "Wiltshire",
+    "latitude": 51.31999999,
+    "longitude": -2.20805555
+  },
+  {
+    "city": "Truro",
+    "region": "Cornwall",
+    "latitude": 50.26000000,
+    "longitude": -5.05111111
+  },
+  {
+    "city": "Wakefield",
+    "region": "West Yorkshire",
+    "latitude": 53.68249999,
+    "longitude": -1.49749999
+  },
+  {
+    "city": "Monmouth",
+    "region": "Gwent",
+    "latitude": 51.81666666,
+    "longitude": -2.71666666
+  },
+  {
+    "city": "Carmarthen",
+    "region": "Dyfed",
+    "latitude": 51.85611111,
+    "longitude": -4.31611111
+  },
+  {
+    "city": "Haverfordwest",
+    "region": "Dyfed",
+    "latitude": 51.80000000,
+    "longitude": -4.96666666
+  },
+  {
+    "city": "Brecon",
+    "region": "Powys",
+    "latitude": 51.94805555,
+    "longitude": -3.39111110
+  },
+  {
+    "city": "Newtown, Powys",
+    "region": "Powys",
+    "latitude": 52.51333333,
+    "longitude": -3.31416666
+  },
+  {
+    "city": "Denbigh",
+    "region": "Clwyd",
+    "latitude": 53.18527777,
+    "longitude": -3.41777777
+  },
+  {
+    "city": "Barmouth",
+    "region": "Gwynedd",
+    "latitude": 52.72194443,
+    "longitude": -4.05500000
+  },
+  {
+    "city": "Caernarfon",
+    "region": "Gwynedd",
+    "latitude": 53.13333333,
+    "longitude": -4.26666666
+  },
+  {
+    "city": "Llangefni",
+    "region": "Gwynedd",
+    "latitude": 53.25611111,
+    "longitude": -4.31388888
+  },
+  {
+    "city": "Penzance",
+    "region": "Cornwall",
+    "latitude": 50.11888888,
+    "longitude": -5.53694444
+  },
+  {
+    "city": "Thurso",
+    "region": "",
+    "latitude": 58.59611110,
+    "longitude": -3.52111110
+  },
+  {
+    "city": "Dornoch",
+    "region": "",
+    "latitude": 57.88333333,
+    "longitude": -4.03333333
+  },
+  {
+    "city": "Elgin, Moray",
+    "region": "",
+    "latitude": 57.64861110,
+    "longitude": -3.31527777
+  },
+  {
+    "city": "Paisley, Renfrewshire",
+    "region": "",
+    "latitude": 55.84555555,
+    "longitude": -4.42388888
+  },
+  {
+    "city": "Dumbarton",
+    "region": "",
+    "latitude": 55.95000000,
+    "longitude": -4.56666666
+  },
+  {
+    "city": "St Andrews",
+    "region": "",
+    "latitude": 56.34027777,
+    "longitude": -2.79555555
+  },
+  {
+    "city": "Berwick-upon-Tweed",
+    "region": "Northumberland",
+    "latitude": 55.76916666,
+    "longitude": -2.00250000
   }
 ]
