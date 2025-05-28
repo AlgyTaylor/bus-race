@@ -191,13 +191,19 @@
         document.getElementById('reverse').style.display = 'none';
         return;
       }
+      window._originalRoute = bestRoute.slice(); // Save original order for reversals
       renderOutput(bestRoute);
       document.getElementById('reverse').style.display = 'block';
     };
 
     document.getElementById('reverse').onclick = function() {
-      if (bestRoute && bestRoute.length) {
-        bestRoute = [...bestRoute].reverse();
+      if (window._originalRoute && window._originalRoute.length) {
+        // If currently reversed, restore original; else, reverse
+        if (bestRoute && bestRoute.length && bestRoute[0] === window._originalRoute[0]) {
+          bestRoute = [...window._originalRoute].reverse();
+        } else {
+          bestRoute = window._originalRoute.slice();
+        }
         renderOutput(bestRoute);
       }
     };
