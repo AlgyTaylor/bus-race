@@ -38,6 +38,7 @@
       </div>
       <button type="button" class="btn btn-primary w-100" id="generate">Generate Race</button>
     </form>
+    <button type="button" class="btn btn-secondary w-100 mb-3" id="reverse" style="display:none;">Reverse Order</button>
     <pre id="output" class="bg-white p-3 rounded border"></pre>
   </div>
   <script>
@@ -97,6 +98,28 @@
           throw new Error('Could not load local cities.json.');
         }
       }
+    }
+
+    let bestRoute = null;
+
+    function renderOutput(route) {
+      if (!route || !route.length) return;
+      const firstCity = route[0].city;
+      const bustimesUrl = `https://bustimes.org/search?q=${encodeURIComponent(firstCity)}`;
+      let cityList = route.map(c => {
+        const mapUrl = `https://www.openstreetmap.org/search?query=${encodeURIComponent(c.city)}`;
+        return `${c.city} <a href="${mapUrl}" target="_blank" rel="noopener">[map]</a>`;
+      }).join('<br>');
+
+      // Add OSM directions link for the route (start to end)
+      const start = route[0];
+      const end = route[route.length - 1];
+      const routeUrl = `https://www.openstreetmap.org/directions?engine=fossgis_osrm_bicycle&route=${encodeURIComponent(start.latitude)},${encodeURIComponent(start.longitude)};${encodeURIComponent(end.latitude)},${encodeURIComponent(end.longitude)}#map=7/54.858/-4.532`;
+
+      document.getElementById('output').innerHTML =
+        `<a href="${routeUrl}" target="_blank" rel="noopener" class="mb-2 d-block">Target time</a>` +
+        `<a href="${bustimesUrl}" target="_blank" rel="noopener" class="mb-2 d-block">Bus times for ${firstCity}</a>` +
+        cityList;
     }
 
     document.getElementById('generate').onclick = async function() {
@@ -165,22 +188,18 @@
 
       if (!bestRoute) {
         output.textContent = 'Could not find a valid route.';
+        document.getElementById('reverse').style.display = 'none';
         return;
       }
+      renderOutput(bestRoute);
+      document.getElementById('reverse').style.display = 'block';
+    };
 
-      // Add bustimes.org link for the first city
-      const firstCity = bestRoute[0].city;
-      const bustimesUrl = `https://bustimes.org/search?q=${encodeURIComponent(firstCity)}`;
-
-      // Build output with [map] links for every city
-      let cityList = bestRoute.map(c => {
-        const mapUrl = `https://www.openstreetmap.org/search?query=${encodeURIComponent(c.city)}`;
-        return `${c.city} <a href="${mapUrl}" target="_blank" rel="noopener">[map]</a>`;
-      }).join('<br>');
-
-      output.innerHTML =
-        `<a href="${bustimesUrl}" target="_blank" rel="noopener" class="mb-2 d-block">Bus times for ${firstCity}</a>` +
-        cityList;
+    document.getElementById('reverse').onclick = function() {
+      if (bestRoute && bestRoute.length) {
+        bestRoute = [...bestRoute].reverse();
+        renderOutput(bestRoute);
+      }
     };
   </script>
 </body>
