@@ -90,7 +90,7 @@
       } else {
         // Fetch local cities.json
         try {
-          const resp = await fetch('cities.json');
+          const resp = await fetch('all.json');
           if (!resp.ok) throw new Error();
           return await resp.json();
         } catch (e) {
